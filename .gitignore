@@ -1,3 +1,7 @@
 /.env
 /.env.example
 /.venv
+/nltk_data
+/.streamlit
+/.ipynb_checkpoints
+/.cache
