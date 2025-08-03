@@ -1,6 +1,0 @@
-streamlit
-spotipy
-python-dotenv
-pandas
-scikit-learn
-pickle-mixin
